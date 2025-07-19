@@ -49,7 +49,7 @@ Architect and prototype a high-fidelity, enterprise-grade simulation and marketi
 - AI-driven ETA and delivery handover instructions.
 
 ### AI Control Map – Global Operational Dashboard
-- Unified, dynamic geospatial telemetry of flights, trains, and food delivery.aws
+- Unified, dynamic geospatial telemetry of flights, trains, and food delivery
 - Predictive anomaly visualization and AI intervention alerts.
 
 ### AI Chat Assistant Panel
