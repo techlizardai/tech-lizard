@@ -17,7 +17,6 @@ Architect and prototype a high-fidelity, enterprise-grade simulation and marketi
 - Demonstrate **real-time predictive AI logistics orchestration** across flights, rail, and micro-mobility delivery.
 - Utilize **computational geometry**, advanced mapping APIs, and ML inference for performant, visually stunning interfaces.
 - Enforce a **Trust + High-Tech design paradigm** with skeuomorphic transparency, precise typography, and data-driven visual hierarchies.
-- Create a **submission-ready artifact** optimized for AWS Activate and NVIDIA Inception credit programs.
 - Engineer a **mobile-first, multi-device adaptive Progressive Web App (PWA)** architecture with uncompromising responsiveness.
 
 ---
@@ -50,7 +49,7 @@ Architect and prototype a high-fidelity, enterprise-grade simulation and marketi
 - AI-driven ETA and delivery handover instructions.
 
 ### AI Control Map – Global Operational Dashboard
-- Unified, dynamic geospatial telemetry of flights, trains, and food delivery.
+- Unified, dynamic geospatial telemetry of flights, trains, and food delivery.aws
 - Predictive anomaly visualization and AI intervention alerts.
 
 ### AI Chat Assistant Panel
